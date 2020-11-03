@@ -1,0 +1,8 @@
+my\BookApp.class
+my\repository\BookRepository.class
+my\config\JerseyConfig.class
+my\service\impl\BookServiceImpl.class
+my\controller\BookControllerV1.class
+my\model\Book.class
+my\service\BookService.class
+my\repository\impl\BookRepositoryImpl.class
